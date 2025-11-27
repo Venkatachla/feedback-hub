@@ -8,9 +8,6 @@
 
 There are several ways of editing your application.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/6a6cd866-0676-4be7-811b-f463401c4115) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -70,6 +67,7 @@ Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
+
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
 
 
@@ -105,3 +103,5 @@ This update ensures:
     * New contributors can set up the project in minutes
     * The project follows standard open-source documentation practices
     * The repository is ready for collaborative development and pull-request workflows
+
+
