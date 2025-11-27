@@ -71,3 +71,37 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+
+
+🚀 Feature Branch Contribution (Student Work)
+
+This branch introduces structured improvements to the project setup and documentation to enhance developer onboarding, clarity, and collaboration workflow.
+
+Work Implemented in New Branch(feat/setup-form-ui)
+
+1. Added a clear local development setup guide using Node.js, npm, and Vite.
+2. Improved project usage instructions for both:
+        * Lovable cloud-based editing
+        * Local IDE-based development
+        * Documented modern frontend stack usage, including:
+        * React + TypeScript for scalable UI development
+        * Tailwind CSS for utility-first responsive styling shadcn/ui for       accessible and reusable UI components
+3. Improved developer experience (DX) by structuring README for:
+        * Faster project understanding
+        * Easier contributor onboarding
+        * Open-source contribution readiness
+
+Tech Stack Overview
+
+1. Vite – Fast frontend tooling and dev server
+2. React – Component-based UI library
+3. TypeScript – Type-safe JavaScript
+4. Tailwind CSS – Utility-first CSS framework
+5. shadcn/ui – Accessible UI components for React
+
+ Purpose of This Contribution
+
+This update ensures:
+    * New contributors can set up the project in minutes
+    * The project follows standard open-source documentation practices
+    * The repository is ready for collaborative development and pull-request workflows
